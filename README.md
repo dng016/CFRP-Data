@@ -1,2 +1,2 @@
 # CFRP-Data
-Life data of Carbon Fibre Reinforced Polymer Composites provided by NASA
+Life data sets of Carbon Fibre Reinforced Polymer Composites provided by NASA
